@@ -1,0 +1,83 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\graphicspath{ {./Obrazky/} } % Required for inserting images
+\usepackage[czech]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.5 cm, left=1.5 cm, right=15mm, bottom=15mm]{geometry}
+\usepackage{fancyhdr, color, multicol}
+\usepackage{ragged2e}
+\usepackage{blindtext}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{color}
+\usepackage[fontsize=12pt]{fontsize}
+\usepackage{circuitikz} %obvody, znacky
+\usetikzlibrary{arrows}
+\usepackage{tkz-euclide}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true, %set true if you want colored links
+    linktoc=all,     %set to all if you want both sections and subsections linked
+    linkcolor=black,  %choose some color if you want links to stand out
+}
+%==========================Fonts=====================================
+\usepackage{lmodern}
+\rmfamily
+\DeclareFontShape{T1}{lmr}{b}{sc}{<->ssub*cmr/bx/sc}{}
+\DeclareFontShape{T1}{lmr}{bx}{sc}{<->ssub*cmr/bx/sc}{}
+%====================================================================
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+    \vspace*{5cm}
+    {\huge{1. Architektura PC}} \par
+    \vspace{15cm}
+    {\large{lilman2727}}
+\end{center}
+
+
+\newpage
+\thispagestyle{empty}
+\tableofcontents
+\newpage
+
+\section{Historie}
+
+\section{Architektura počítačů}
+    \subsection{Von Neumannova architektura}
+    \subsection{Řadič}
+    \subsection{Aritmeticko-logická jednotka}
+    \subsection{Registry}
+    \subsection{Sběrnice}
+    \subsection{Centrální procesorová jednotka}
+    \subsection{Harvardská architektura}
+    \subsection{Mikroarchitektury}
+
+\section{Hardware počítače}
+    \subsection{Procesor}
+    \subsection{Chladiče}
+    \subsection{Základní deska}
+        \subsubsection{Patice}
+        \subsubsection{Čipová sada}
+        \subsubsection{Napájecí kaskády}
+        \subsubsection{Integrované technologie}
+        \subsubsection{Sběrnice, piny a jiné konektory}
+    \subsection{RAM}
+        \subsubsection{Rozdíly mezi SDR, DDR, QDR}
+        \subsubsection{Časování a latence}
+    \subsection{Grafická karta}
+        \subsubsection{Jádro a VRM}
+        \subsubsection{Paměť GPU}
+        \subsubsection{Srovnání CPU a GPU}
+    \subsection{Disky}
+        \subsubsection{HDD}
+        \subsubsection{SSD}
+        \subsubsection{Archaické disky}
+    \subsection{Zdroj}
+        \subsubsection{Hodnocení zdrojů}
+    \subsection{Rozšiřující karty}
+    \subsection{Bedny}
+
+\end{document}
