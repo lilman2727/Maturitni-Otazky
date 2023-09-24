@@ -1,6 +1,6 @@
 \documentclass[a4paper]{article}
 \usepackage{graphicx}
-\graphicspath{ {./Obrazky/} } % Required for inserting images
+\graphicspath{ {./img/} } % Required for inserting images
 \usepackage[czech]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -63,8 +63,10 @@
 
 
 \section{Architektura počítačů}
+    \textit{Architektura počítače} je způsob realizace počítače. Zaměřuje se na návrh a konstrukci zařízení, která zpracovávají data. Zkoumá, jak pracuje CPU a jak přistupuje k paměti.
     \subsection{Von Neumannova architektura}
-        Architektura popsaná americko-maďarským matematikem Johnem von Neumannem. Popisuje počítač, který má společnou paměť pro instrukce i data. Zpracování dat je sekvenční. von Neumannova architektura  popisuje řadič s aritmeticko-logickou jednotkou jako centrální procesorovou jednotku, která komunikuje s pamětí. 
+        Architektura popsaná americko-maďarským matematikem Johnem von Neumannem. Popisuje počítač, který má společnou paměť pro instrukce i data. Zpracování dat je \textit{sekvenční}, tj. instrukce se vykonají v přesném pořadí jedna za druhou. Von Neumannova architektura  popisuje řadič s aritmeticko-logickou jednotkou jako centrální procesorovou jednotku, která komunikuje s pamětí. \par
+        \includegraphics{vonNeumann.png}  
     \subsection{Řadič}
         \textit{Řadič} řídí celou činnost počítače. Řadič v procesoru je nadřazen všem ostatním řadičům (např. paměťový řadič, SATA řadič\dots)
         Počítač řídí pomocí řídících signálů, které zasílá jednolivým modulům počítače a odpovědi na tyto signály jsou předány zpět do řadiče. \par
@@ -105,13 +107,13 @@
         Většina elektrické energie dodávaná polovodičovým součástkám je přeměněna na teplo. Protože by se jednotlivé součástky mohly poškodit, je velmi důležité je adekvátně chladit. U procesorů dle \textit{TDP, Thermal Design Power} lze určit, jak moc \uv{budou hřát} a podle toho zvolit správný chladič. \par
         Chladiče můžeme rozdělit následovně:
         \begin{itemize}
-            \item Pasivní chlazení -- teplo generované polovodičem se přesune na, většinou hliníkový, chladič, který si vyměňuje teplo s okolím.
+            \item Pasivní chlazení -- teplo generované polovodičem se přesune na, většinou hliníkový, chladič, který si vyměňuje teplo s okolím. Pasivní chladiče se v drtivé většině dělají do $37\,W$, po překročení této hodnoty je skoro nutné přejít na aktivní chlazení.
             \item Aktivní chlazení -- lze rozlišit na:
             \begin{itemize}
-                \item Chlazení vzduchem -- větrák fouká čerstvý vzduch do chladiče a tak značně pomáhá s rozptylem tepla
+                \item Chlazení vzduchem -- větrák fouká čerstvý vzduch do chladiče a tak značně pomáhá s rozptylem tepla. Krom větráku je identický s pasivním chladičem ve funkčnosti i v obecném principu funkčnosti.
                 \item Chlazení vodou -- používá kapalinu, která proudí skrze uzavřený okruh přes procesor až k radiátoru, kde si s ním vymění teplo. Lze rozdělit na:
                 \begin{itemize}
-                    \item AIO -- All-in-one -- obsahuje chladící blok, pumpu, kapalinu, trubičky, radiátor a větráky na radiátor v jednom uceleném balení, \uv{plug and play}
+                    \item AIO -- All-in-one -- obsahuje chladící desku, pumpu, kapalinu, trubičky, radiátor a větráky na radiátor v jednom uceleném balení, \uv{plug and play}
                     \item Custom loop -- Všechny výše uvedené části a k tomu rezervoár (nádrž) si koupíte zvlášť a sestavíte se na míru dle svých požadovaných specifikací. Nutné značné úsilí, je dražší.
                 \end{itemize}
             \end{itemize}

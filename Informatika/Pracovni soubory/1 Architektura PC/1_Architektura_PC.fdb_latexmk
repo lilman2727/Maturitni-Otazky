@@ -1,12 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1695575159 "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" "1_Architektura_PC.pdf" "1_Architektura_PC" 1695575161 0
-  "1_Architektura_PC.aux" 1695575161 5759 d939de8289613d3a433745c9b8fafb84 "pdflatex"
-  "1_Architektura_PC.out" 1695575161 5470 a310fbb92b82172d862e71fc12006f83 "pdflatex"
-  "1_Architektura_PC.tex" 1695575159 14579 1495c11cb863378c7094acf32aea337b ""
-  "1_Architektura_PC.toc" 1695575161 3434 1a3cb4c483349a01a12e9515a60d42c6 "pdflatex"
+["pdflatex"] 1695576695 "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" "1_Architektura_PC.pdf" "1_Architektura_PC" 1695576696 0
+  "1_Architektura_PC.aux" 1695576696 5759 a788087b56dd94e83ee1840c8a2fee0f "pdflatex"
+  "1_Architektura_PC.out" 1695576696 5470 a310fbb92b82172d862e71fc12006f83 "pdflatex"
+  "1_Architektura_PC.tex" 1695576694 15149 71800747ff4a7c5b2c9909792a5d496a ""
+  "1_Architektura_PC.toc" 1695576696 3434 4238a3f6cb9c46ebf9f2b53a55a38e12 "pdflatex"
   "C:/Users/004ha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1682358428 122733 623f4db582da485984159cd037dc5094 ""
   "C:/Users/004ha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680007213 23162773 80101d77e857fc8c5e078281ee693673 ""
   "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
+  "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256933040 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256933040 2840 216e6e45ad352e2456e1149f28885bee ""
   "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256933040 2327 9d6df24f9c4f7368395224341a95523a ""
   "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc" 1256933040 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -29,6 +30,7 @@
   "H:/LaTeX/MiKTeX/fonts/tfm/public/lm/rm-lmr8.tfm" 1256933040 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
   "H:/LaTeX/MiKTeX/fonts/tfm/public/lm/ts1-lmr12.tfm" 1256933040 1596 1d4548788e389ded56d0b01b28377882 ""
   "H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1256933040 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
+  "H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmmi12.pfb" 1256933040 30696 3da7e46ecf5615eedebd9f27dab4d9d7 ""
   "H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1256933040 113634 9384aebdf26f9881e046a4b5574566db ""
   "H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr17.pfb" 1256933040 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
   "H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmri12.pfb" 1256933040 109265 e6c7d377db6dfccd4a123fb26da8cffb ""
@@ -258,7 +260,8 @@
   "H:/LaTeX/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "H:/LaTeX/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "H:/LaTeX/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585224860 8510 7803f78066c4f9d008405191a4b43073 ""
-  "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" 1695575159 14579 1495c11cb863378c7094acf32aea337b ""
+  "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" 1695576694 15149 71800747ff4a7c5b2c9909792a5d496a ""
+  "img//vonNeumann.png" 1695576629 6882 9653979440f4929d3a06c9a568af6972 ""
   (generated)
   "1_Architektura_PC.aux"
   "1_Architektura_PC.log"

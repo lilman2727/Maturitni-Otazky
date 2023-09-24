@@ -1199,6 +1199,12 @@ INPUT H:\LaTeX\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
 OUTPUT 1_Architektura_PC.toc
 INPUT H:\LaTeX\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT H:\LaTeX\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT .\img\\vonNeumann.png
+INPUT img\\vonNeumann.png
+INPUT .\img\\vonNeumann.png
+INPUT .\img\\vonNeumann.png
+INPUT .\img\\vonNeumann.png
+INPUT .\img\\vonNeumann.png
 INPUT H:\LaTeX\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT H:\LaTeX\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT H:\LaTeX\MiKTeX\tex\latex\lm\ts1lmr.fd
@@ -1213,11 +1219,14 @@ INPUT 1_Architektura_PC.aux
 INPUT .\1_Architektura_PC.out
 INPUT .\1_Architektura_PC.out
 INPUT H:\LaTeX\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT H:\LaTeX\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT H:\LaTeX\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT H:\LaTeX\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT H:\LaTeX\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
+INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT H:\LaTeX\MiKTeX\fonts\type1\public\lm\lmr17.pfb
