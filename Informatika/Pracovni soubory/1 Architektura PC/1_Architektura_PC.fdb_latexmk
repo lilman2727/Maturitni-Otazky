@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1695576695 "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" "1_Architektura_PC.pdf" "1_Architektura_PC" 1695576696 0
-  "1_Architektura_PC.aux" 1695576696 5759 a788087b56dd94e83ee1840c8a2fee0f "pdflatex"
-  "1_Architektura_PC.out" 1695576696 5470 a310fbb92b82172d862e71fc12006f83 "pdflatex"
-  "1_Architektura_PC.tex" 1695576694 15149 71800747ff4a7c5b2c9909792a5d496a ""
-  "1_Architektura_PC.toc" 1695576696 3434 4238a3f6cb9c46ebf9f2b53a55a38e12 "pdflatex"
+["pdflatex"] 1695664768 "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" "1_Architektura_PC.pdf" "1_Architektura_PC" 1695664769 0
+  "1_Architektura_PC.aux" 1695664769 5607 3770f7830b6f36b34f1c7071d5b66811 "pdflatex"
+  "1_Architektura_PC.out" 1695664769 5247 a213d9afffae9e8baafe21c2259a6261 "pdflatex"
+  "1_Architektura_PC.tex" 1695664767 30090 f464f0b7928ce200c4fc2371153ef2a2 ""
+  "1_Architektura_PC.toc" 1695664769 3322 3f8c5dc80fb8d6bb1f40570c20a754cb "pdflatex"
   "C:/Users/004ha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1682358428 122733 623f4db582da485984159cd037dc5094 ""
   "C:/Users/004ha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680007213 23162773 80101d77e857fc8c5e078281ee693673 ""
   "H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -260,8 +260,9 @@
   "H:/LaTeX/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "H:/LaTeX/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "H:/LaTeX/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585224860 8510 7803f78066c4f9d008405191a4b43073 ""
-  "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" 1695576694 15149 71800747ff4a7c5b2c9909792a5d496a ""
+  "c:/Users/004ha/Documents/GitHub/Maturitni-Otazky/Informatika/Pracovni soubory/1 Architektura PC/1_Architektura_PC.tex" 1695664767 30090 f464f0b7928ce200c4fc2371153ef2a2 ""
   "img//vonNeumann.png" 1695576629 6882 9653979440f4929d3a06c9a568af6972 ""
+  "img/chipset.png" 1695657879 33341 ebd5d52ba5e367ff4adece0c4f2847b4 ""
   (generated)
   "1_Architektura_PC.aux"
   "1_Architektura_PC.log"
