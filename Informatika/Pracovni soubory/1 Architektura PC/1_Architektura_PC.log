@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  25 SEP 2023 19:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  25 SEP 2023 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -840,56 +840,55 @@ Package hyperref Info: Link coloring ON on input line 31.
 \@outlinefile=\write4
 \openout4 = `1_Architektura_PC.out'.
 
- [1
-
-{C:/Users/004ha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1_Architektura_PC.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 39.
+ (H:\LaTeX\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 39.
  (H:\LaTeX\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 39.
  (H:\LaTeX\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 39.
  (H:\LaTeX\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 39.
  (H:\LaTeX\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-)
+(Font)              <6> on input line 39.
+ [1
+
+{C:/Users/004ha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1_Architektura_PC.toc)
 \tf@toc=\write5
 \openout5 = `1_Architektura_PC.toc'.
 
  [2] [3]
-<./img//vonNeumann.png, id=266, 271.0125pt x 157.33781pt>
+<./img//vonNeumann.png, id=268, 271.0125pt x 157.33781pt>
 File: ./img//vonNeumann.png Graphic file (type png)
 <use ./img//vonNeumann.png>
-Package pdftex.def Info: ./img//vonNeumann.png  used on input line 69.
+Package pdftex.def Info: ./img//vonNeumann.png  used on input line 71.
 (pdftex.def)             Requested size: 271.01183pt x 157.33742pt.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 77.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 79.
  (H:\LaTeX\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [4 <./img//vonNeumann.png>] [5] [6]
-<img/chipset.png, id=282, 271.0125pt x 280.79906pt>
+<img/chipset.png, id=284, 271.0125pt x 280.79906pt>
 File: img/chipset.png Graphic file (type png)
 <use img/chipset.png>
-Package pdftex.def Info: img/chipset.png  used on input line 154.
+Package pdftex.def Info: img/chipset.png  used on input line 156.
 (pdftex.def)             Requested size: 243.90898pt x 252.71681pt.
  [7 <./img/chipset.png>] [8] [9] [10]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 225.
- (H:\LaTeX\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (3.67564pt too wide) in paragraph at lines 257--258
+Overfull \hbox (3.67564pt too wide) in paragraph at lines 259--260
 [][][]$\T1/lmtt/m/n/12 https : / / www . guru3d . com / story / amd-[]x570-[]chipset-[]blockdiagram-[]surfaces-[]shows-[]specs$[][] 
  []
 
@@ -905,10 +904,10 @@ Here is how much of TeX's memory you used:
  550816 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,5n,89p,1283b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr17.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmri12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on 1_Architektura_PC.pdf (11 pages, 276876 bytes).
+{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{H:/LaTeX/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmr17.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmri12.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><H:/LaTeX/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on 1_Architektura_PC.pdf (11 pages, 277535 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
+ 390 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 500000)
  343 words of extra memory for PDF output out of 10000 (max. 10000000)
 
